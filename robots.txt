@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://journal.webmonster.tech/sitemap.xml
