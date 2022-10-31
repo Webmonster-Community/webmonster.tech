@@ -352,6 +352,8 @@ function dateToFrench($date, $format)
             </h2>
         </div>
         <div class="col-xs-12 col-md-12">
+            <h2>Tu es en Martinique et tu travailles dans l'informatique, tu apprends à coder ?</h2>
+            <p>Le collectif Webmonster représente aujourd'hui une communauté de 282 développeurs, designers, chefs d'entreprises et autres profils, originaires principalement de #Martinique, #Guadeloupe et #Guyane.</p>
         </div>
     </div>
 </main>
