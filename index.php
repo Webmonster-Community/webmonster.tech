@@ -565,8 +565,8 @@ $discord_invite =  $obj->instant_invite;
 <footer class="container mb-4 mt-4">
     <div class="row">
         <section class="col-sm-12 text-center">
-            <h3>Nos partenaires</h3>
-            <a href="https://jobbiz.fr/" title="Jobbiz Interim" rel="dofollow"><img src="assets/img/jobbiz.svg" alt="Jobbiz Interim"></a>
+            <h3>Notre partenaire</h3>
+            <a href="https://jobbiz.fr/" title="Jobbiz Interim" rel="dofollow"><img width="150" src="assets/img/jobbiz.svg" alt="Jobbiz Interim"></a>
         </section>
 
         <section class="col-sm-12 text-center">
