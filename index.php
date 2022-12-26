@@ -351,7 +351,7 @@ $discord_invite =  $obj->instant_invite;
     <div class="row gap-2">
         <div class="col-xs-12 col-md-12">
             <h3>Tu es en Martinique, Guadeloupe ou Guyane et tu travailles dans l'informatique, tu apprends à coder ?</h3>
-            <p>Le collectif Webmonster représente aujourd'hui une communauté de 282 développeurs, designers, chefs d'entreprises et autres profils, originaires principalement de #Martinique, #Guadeloupe et #Guyane.</p>
+            <p>Le collectif Webmonster représente aujourd'hui une communauté de 320 développeurs, designers, chefs d'entreprises et autres profils, originaires principalement de #Martinique, #Guadeloupe et #Guyane.</p>
             <p>
                 <a class="btn-outlined-blue" href="<?=$discord_invite;?>" target="_blank" rel="noopener nofollow">
                     <i class="fa-brands fa-discord"></i> Nous rejoindre sur Discord
@@ -436,6 +436,10 @@ $discord_invite =  $obj->instant_invite;
                             Guide SEO du développeur
                         </h4>
                         <p>Présentation du SEO pour les développeurs.</p>
+                        <a href="https://seo.webmonster.tech" rel="dofollow" class="option-dark">
+                            <span class="circle" aria-hidden="true"><span class="icon arrow"></span></span>
+                            <span class="button-text">Le site</span>
+                        </a>
                         <a href="https://github.com/Webmonster-Community/guide-seo" class="option-dark">
                             <span class="circle" aria-hidden="true"><span class="icon arrow"></span></span>
                             <span class="button-text">GitHub</span>
