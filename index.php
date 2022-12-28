@@ -360,6 +360,28 @@ $discord_invite =  $obj->instant_invite;
 
             <div class="row mb-3 gap-2">
                 <div class="col-xs-12 col-md-6">
+                    <div class="block mb-2" style="background-color: #674394;">
+                        <h4 class="text-white">
+                            <svg width="24" height="24" fill="#ffffff" id="logo-techmonster" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 100 100" style="enable-background:new 0 0 100 100;" xml:space="preserve">
+                                    <path id="face" class="emblem" d="M50,3.3C24.2,3.3,3.3,24.2,3.3,50S24.2,96.7,50,96.7S96.7,75.8,96.7,50S75.8,3.3,50,3.3z M56.1,26.3
+                                    c4.2,0,7.7,3.4,7.7,7.7s-3.4,7.7-7.7,7.7c-4.2,0-7.7-3.4-7.7-7.7S51.8,26.3,56.1,26.3z M40.2,29.5c2.8,0,5.1,2.3,5.1,5.1
+                                    c0,2.8-2.3,5.1-5.1,5.1c-2.8,0-5.1-2.3-5.1-5.1C35.2,31.8,37.4,29.5,40.2,29.5z M74.7,58.3c-0.2,0.8-0.5,1.5-0.9,2.3
+                                    c-2.3,5.2-5.2,8.4-8.5,10.3c-1.1,0.6-2.2,1.1-3.3,1.5c-3.6,1.2-7.6,1.4-12,1.4c-4.2,0-8.5-0.8-12.3-2.3c-1.2-0.5-2.4-1-3.5-1.6
+                                    c-4.1-2.1-7.5-5.1-9.1-8.5c-0.4-0.8-0.7-1.5-1-2.3c-2.4-6.6-1.8-13.2,0.4-15.8c0.9-1.1,2.7-1.2,5-0.8c1.1,0.2,2.4,0.6,3.7,1
+                                    c5.1,1.5,11.4,4,16.8,3.8c5.3-0.1,10.9-2.3,15.2-3.4c1.3-0.3,2.6-0.6,3.6-0.7c0.6,0,1.2,0,1.7,0.1C74.1,44.4,77,50.8,74.7,58.3z"></path>
+                                <circle id="oeil-gauche" class="emblem" cx="42.2" cy="35" r="2"></circle>
+                                <circle id="oeil-droit" class="emblem" cx="52.7" cy="35" r="2.9"></circle>
+                            </svg>
+                            Webmonster 2023, le salon
+                        </h4>
+                        <p class="text-white">Webmonster 2023 est un salon professionnel immersif gratuit. Il a été conçu comme un parcours autour d’un projet, de l’idée au prototype en passant par la data, le développement ou encore le référencement naturel et la cybersécurité.</p>
+                        <a href="https://salon.webmonster.tech/" class="option-dark">
+                            <span class="circle" aria-hidden="true"><span class="icon arrow"></span></span>
+                            <span class="button-text">Le site</span>
+                        </a>
+                    </div>
+                </div>
+                <div class="col-xs-12 col-md-6">
                     <div class="block mb-2 bg-dark">
                         <h4 class="text-orange">
                             <svg width="24" height="24" fill="#fb8618" id="logo-techmonster" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 100 100" style="enable-background:new 0 0 100 100;" xml:space="preserve">
